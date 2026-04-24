@@ -10,6 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Jeewan Pandey"
+site_title               : "Portfolio - Jeewan Pandey "
 title_separator          : "-"
 name                     : &name "Jeewan Pandey"
 description              : &description "Applied Genetics Scientist | Plant Breeding | Digital Phenotyping"   # Update this with a general description of your site, this is the default if not overridden by a page
