@@ -15,5 +15,11 @@ redirect_from:
 Image-based pipelines for fruit detection, yield estimation, and trait extraction.
 
 
+
+
+
+
+
+
 ### Breeding Data Science
 Integrated phenotyping, genotyping, and analytics to support breeding decisions.
