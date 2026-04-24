@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Portfolio - Jeewan Pandey"
+title: "Portfolio Jeewan Pandey"
 author_profile: true
 redirect_from: 
   - /about/
