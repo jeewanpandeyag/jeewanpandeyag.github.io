@@ -7,3 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+---
+
+
+
+### Digital Phenotyping 
+Image-based pipelines for fruit detection, yield estimation, and trait extraction.
+
+
+### Breeding Data Science
+Integrated phenotyping, genotyping, and analytics to support breeding decisions.
