@@ -1,7 +1,7 @@
 ---
 title: "Genetic diversity and population structure of advanced clones selected over forty years by a potato breeding program in the USA"
 collection: publications
-category: manuscripts
+category: 
 permalink: /publication/genetic-diversity-potato-2021
 date: 2021-04-16
 venue: 'Frontiers in Plant Science'
@@ -10,3 +10,4 @@ paperurl: 'https://your-real-link.pdf'
 slidesurl: ''
 bibtexurl: ''
 citation: 'Pandey, J., Vales, M. I., et al. (2021). "Genetic diversity and population structure of advanced clones selected over forty years by a potato breeding program in the USA." <i>Frontiers in Plant Science</i>.'
+---
