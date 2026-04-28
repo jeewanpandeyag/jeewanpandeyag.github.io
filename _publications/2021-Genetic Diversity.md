@@ -2,7 +2,7 @@
 title: "Genetic diversity and population structure of advanced clones selected over forty years by a potato breeding program in the USA"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-Genetic Diversity.md
+permalink: /publication/2021-Genetic Diversity
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-04-16
 venue: 'Frontiers in Plant Science'
